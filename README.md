@@ -27,16 +27,36 @@ src/
 ├── App.tsx # Main app logic
 └── index.tsx # Entry point
 
-🎨 Customization
+## 📦 Getting Started
+
+### Prerequisites
+
+- Node.js (v16 or later)
+- npm or yarn
+
+### Installation
+
+````bash
+git clone https://github.com/pcorpa/React-TodoApp.git
+cd React-TodoApp
+yarn
+
+### **Running the App**
+
+yarn dev
+
+
+
+### 🎨 Customization
 
 To use Bootstrap Icons, make sure this line is included in your index.html:
 
-<link
+\```<link
   rel="stylesheet"
   href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css"
-/>
+/>```\
 
-📚 Learnings
+📚 **Learnings**
 
 This project helped me practice:
 
@@ -49,3 +69,4 @@ This project helped me practice:
 - Filter completed vs pending tasks
 - Improve accessibility and mobile responsiveness
 - Add unit tests with Jest + React Testing Library
+````
