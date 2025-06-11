@@ -39,11 +39,11 @@ src/
 ````bash
 git clone https://github.com/pcorpa/React-TodoApp.git
 cd React-TodoApp
-yarn
+yarn ```
 
 ### **Running the App**
 
-yarn dev
+```yarn dev```
 
 
 
@@ -51,10 +51,10 @@ yarn dev
 
 To use Bootstrap Icons, make sure this line is included in your index.html:
 
-\```<link
+```<link
   rel="stylesheet"
   href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css"
-/>```\
+/>```
 
 📚 **Learnings**
 
